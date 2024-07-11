@@ -4,20 +4,20 @@
 
 ### Arduino
 
-<img src="Captura de tela 2024-07-10 111317.png" alt = "Arduino" width="200" height="150">
+<img src="image/Captura de tela 2024-07-10 111317.png" alt = "Arduino" width="200" height="150">
 
 ### Protoboard
 
-<img src="Captura de tela 2024-07-10 111312.png" alt="Protoboard" width="250" height="200">
+<img src="image/Captura de tela 2024-07-10 111312.png" alt="Protoboard" width="250" height="200">
 
 ### Tela LCD
 
-<img src="Captura de tela 2024-07-10 211054.png" alt="Protoboard" width="250" height="200">
+<img src="image/Captura de tela 2024-07-10 211054.png" alt="Tela LCD" width="250" height="200">
 
 ### Resistor e Sensor de Temperatura (Respectivamente)
 
-<img src="Captura de tela 2024-07-10 111327.png" alt="Microfone" width="60" height="60">
-<img src="Captura de tela 2024-07-10 211140.png" alt="Resistor" width="60" height="60">
+<img src="image/Captura de tela 2024-07-10 111327.png" alt="Resistência" width="60" height="60">
+<img src="imagem/Captura de tela 2024-07-10 211140.png" alt="Sensor De Temperatura" width="60" height="60">
 
 
 ## Quantidade de materias necessários
@@ -35,11 +35,11 @@ Experimento sobre demostrando na prática, a conversão de temperatura para dife
 ### Circuíto 
 
 
-<img src="conversor de temperatua com tela.png" alt="Arduino" width="500" height="">
+<img src="image/conversor de temperatua com tela.png" alt="Circuíto Montado" width="500" height="">
 
 ### Esquema
 
-<img src="Captura de tela 2024-07-10 212601.png" alt="Arduino" width="500" height="">
+<img src="image/Captura de tela 2024-07-10 212601.png" alt="Esquema do Circuíto" width="500" height="">
 
 
 ## Código Para O Funcionamento do Arduíno 
