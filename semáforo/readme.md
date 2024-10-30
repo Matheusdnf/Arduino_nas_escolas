@@ -21,3 +21,17 @@ Você pode acessar o projeto diretamente através do link abaixo:
 1. Acesse o link do projeto.
 2. Explore a interface de codificação em blocos para entender a lógica por trás do semáforo.
 3. Você pode modificar o código e testar diferentes sequências de sinais.
+
+## Materias
+
+| Quantidade | Descrição      |
+| ---------- | -------------- |
+| 1          | Arduino Uno R3 |
+| 1          | LED Vermelho   |
+| 1          | LED Amarelo    |
+| 1          | LED Verde      |
+| 4          | Resistor 1 kΩ  |
+
+## Esquema do Projeto
+
+![Texto Alternativo](esquema_semaforo.png)
